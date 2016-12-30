@@ -4,7 +4,7 @@
 
 ### Login interface:
 
-1. **Mandatory** through either Github (Users are supposed to be developers)
+1. **Mandatory** through Github (Users are supposed to be developers)
 2. Automatically link to your Github account.
   
 ### Activity:
