@@ -1,6 +1,6 @@
 # 100DaysOfCode
 
-## A web application implementing the [Alexander Kallaway's 100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4#.3x9j0mip1)
+## A web application implementing the [Alexander Kallaway's 100DaysOfCode](https://github.com/Kallaway/100-days-of-code)
 
 ### Login interface:
 
